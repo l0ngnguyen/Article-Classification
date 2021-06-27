@@ -1,6 +1,6 @@
 #Directory
-trained_model/
-data/
+trained_model/*
+data/*
 WebCrawling/*.json
 
 # Byte-compiled / optimized / DLL files
